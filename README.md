@@ -14,7 +14,7 @@
 - 🔭 I’m currently looking for an internship
 - 🎯 Goals: Be able to build a full application, like an e-commerce
 - 🌱 I’m currently learning Typescript
-- 📚 Hobbies: Reading Fiction and Language Learning
+- 📚 Hobbies: Reading Fiction and Learning Languages
 - ⚡ Fun fact: I prefer tea
 
 ---
