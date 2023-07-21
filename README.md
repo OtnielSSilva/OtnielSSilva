@@ -11,7 +11,8 @@
 <h3>👩‍💻 Aboute me:</h3>
 
 - 👂 My name is Otniel dos S. Silva
-- 🔭 I’m currently looking for an internship
+- 🔭 I’m currently looking for an internship and freelancing projects
+- 🤝 I'm looking to collaborate on any open source projects using Javascript
 - 🎯 Goals: Be able to build a full application, like an e-commerce
 - 🌱 I’m currently learning Typescript and DSA
 - 📚 Hobbies: Reading Fiction and Learning Languages
