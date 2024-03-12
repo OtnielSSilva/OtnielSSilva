@@ -11,12 +11,8 @@
 <h3>👩‍💻 Aboute me:</h3>
 
 - 👂 My name is Otniel
-- 🔭 I’m currently looking for an internship and freelancing projects
-- 🤝 I'm looking to collaborate on any open source projects using Javascript
 - 🎯 Goals: Be able to build a full application, like an e-commerce
 - 🌱 I’m currently learning Typescript and DSA
-- 📚 Hobbies: Reading Fiction and Learning Languages
-- ⚡ Fun fact: I prefer tea
 
 ---
 
@@ -29,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /> -->
 </p>
 
 <!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a> -->
@@ -69,6 +65,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently looking for an internship and freelancing projects
+- 🤝 I'm looking to collaborate on any open source projects using Javascript
+- ⚡ Fun fact: I prefer tea
+- 📚 Hobbies: Reading Fiction and Learning Languages
 
 ### Hi there 👋
 * 👂 My name is ...
